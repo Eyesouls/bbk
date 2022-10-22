@@ -1,5 +1,5 @@
 # BBK-Script
-#######ql repo https://ghproxy.com/https://github.com/Eyesouls/bbk.git 拉库
+####ql repo https://ghproxy.com/https://github.com/Eyesouls/bbk.git 拉库
 
 
 #### 本仓库之中所有脚本以及配置纯属自用备份
