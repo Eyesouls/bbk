@@ -1,5 +1,5 @@
 # bbk_bak
-bbk bak
+#### ql repo https://ghproxy.com/https://github.com/Eyesouls/bbk.git
 
 ### 本仓库之中所有脚本以及配置纯属自用备份
 ## 免责声明
